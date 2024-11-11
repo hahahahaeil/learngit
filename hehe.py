@@ -1,0 +1,1 @@
+print("hehe,who can kill me?")
